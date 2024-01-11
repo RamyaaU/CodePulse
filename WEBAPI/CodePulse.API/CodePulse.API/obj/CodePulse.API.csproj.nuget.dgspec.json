@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Angular-CodePulse\\WEBAPI\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {}
+    "D:\\Angular-CodePulse\\CodePulse\\WEBAPI\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {}
   },
   "projects": {
-    "D:\\Angular-CodePulse\\WEBAPI\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {
+    "D:\\Angular-CodePulse\\CodePulse\\WEBAPI\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Angular-CodePulse\\WEBAPI\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+        "projectUniqueName": "D:\\Angular-CodePulse\\CodePulse\\WEBAPI\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
         "projectName": "CodePulse.API",
-        "projectPath": "D:\\Angular-CodePulse\\WEBAPI\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+        "projectPath": "D:\\Angular-CodePulse\\CodePulse\\WEBAPI\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
         "packagesPath": "C:\\Users\\RAMYA\\.nuget\\packages\\",
-        "outputPath": "D:\\Angular-CodePulse\\WEBAPI\\CodePulse.API\\CodePulse.API\\obj\\",
+        "outputPath": "D:\\Angular-CodePulse\\CodePulse\\WEBAPI\\CodePulse.API\\CodePulse.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RAMYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
