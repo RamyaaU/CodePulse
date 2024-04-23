@@ -12,6 +12,7 @@ namespace CodePulse.API.Repositories.Implementation
         {
             this._dBContext = dBContext;
         }
+
         public async Task<Category> CreateAsync(Category category)
         {
             await _dBContext.Categories.AddAsync(category);
